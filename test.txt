@@ -1,2 +1,3 @@
 This is the first file to test the remote repository!
+I am sorry!
 This is the second file to test merge the branch!
