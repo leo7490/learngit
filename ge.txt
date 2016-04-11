@@ -2,7 +2,7 @@
 int main()
 {
 print("gitlearn");
-return 0;
+return `10;
 }
 <<<<<<< HEAD
 Creating a new branch is quick AND simple.
