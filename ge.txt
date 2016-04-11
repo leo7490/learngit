@@ -2,3 +2,5 @@
 int main()
 {
 print("gitlearn");
+return 0;
+}
